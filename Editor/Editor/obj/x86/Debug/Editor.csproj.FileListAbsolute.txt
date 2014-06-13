@@ -1,0 +1,10 @@
+E:\Code\C#\Editor\Editor\Editor\bin\Debug\Editor.exe
+E:\Code\C#\Editor\Editor\Editor\bin\Debug\Editor.pdb
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.Properties.Resources.resources
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.csproj.GenerateResource.Cache
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.csprojResolveAssemblyReference.cache
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.Notepad.resources
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.替换.resources
+E:\Code\C#\Editor\Editor\Editor\obj\x86\Debug\Editor.查找.resources
