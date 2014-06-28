@@ -1,2 +1,2 @@
-This is a Editor write by C#;
-like notepad
+> This is a Editor write by C sharp
+  >like notepad
